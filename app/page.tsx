@@ -1,7 +1,6 @@
 "use client";
 import { useEffect, useState } from "react";
 import Balance from "./components/Balance"; // путь поправь, если не работает
-import { getBalance } from "./getBalance";   // путь тоже проверь
 import { getBalance } from "./utils/getBalance";
 
 
