@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 
 
-import { getBalance } from "./getBalance"; // <-- это строка 4
+
 import { getBalance } from "./utils/getBalance"; // <-- это строка 5
 
 
